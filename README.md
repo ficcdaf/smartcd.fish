@@ -1,5 +1,7 @@
 # smartcd.fish
 
+> Part of my [utilities collection](https://sr.ht/~ficd/utils/).
+>
 > `cd`, but _slightly_ smarter.
 
 `smartcd` makes `cd` smarter when used without arguments. It adapts based on
